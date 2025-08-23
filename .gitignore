@@ -1,0 +1,13 @@
+backup
+chrome-dir
+venv
+__pycache__
+*.pyc
+.DS_Store
+.idea
+.vscode
+*.log
+.env
+.env.*
+instance
+.pytest_cache
