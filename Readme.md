@@ -3,7 +3,7 @@ Hi, these are the instruction to run the code, make sure to install python 3.12(
 # Instructions to run the code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/muhammadhassan1214/vdab.be.git
+   git clone https://github.com/muhammadhassan1214/ictjobs_scraper.git
    
 2. run `run.bat` file to run the project:
 
